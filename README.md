@@ -1,16 +1,3 @@
-**`MERN-PlacesHub`**
-
-Why? It’s short, descriptive, and flexible:
-
-* **MERN** → technology stack
-* **Places** → reflects the goal (sharing places)
-* **Hub** → makes it sound like a base for users and developers to build on
-
----
-
-### 📘 `README.md` for `MERN-PlacesHub`
-
-````markdown
 # MERN-PlacesHub 🌍
 
 A simple, fullstack MERN (MongoDB, Express, React, Node.js) project that allows authenticated users to share **places** with an image, description, and address. The app automatically fetches and displays the location on a map using an external geolocation API.
@@ -58,8 +45,8 @@ mern-placeshub/
 │   ├── public/
 │   └── package.json
 ├── .env.example
-└── README.md
-````
+└── README.mdu
+```
 
 ---
 
